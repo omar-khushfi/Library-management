@@ -1,0 +1,1 @@
+This site is for managing a library for selling and renting books, where you can add, edit, and delete books, display available, sold, and rented books, and display profits from rented and sold books.
